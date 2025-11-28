@@ -1,0 +1,134 @@
+Epoch 1/30
+   1/2375 ━━━━━━━━━━━━━━━━━━━━ 13:19:20 20s/step - accuracy: 0.0000e+00 - loss: 3.6375
+I0000 00:00:1764297907.779712     150 device_compiler.h:196] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 186ms/step - accuracy: 0.1754 - loss: 3.0935
+Epoch 1: val_accuracy improved from None to 0.33795, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 504s 204ms/step - accuracy: 0.2302 - loss: 2.8537 - val_accuracy: 0.3380 - val_loss: 2.3879 - learning_rate: 1.0000e-04
+Epoch 2/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 185ms/step - accuracy: 0.3932 - loss: 2.0963
+Epoch 2: val_accuracy improved from 0.33795 to 0.63717, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 475s 200ms/step - accuracy: 0.4655 - loss: 1.8191 - val_accuracy: 0.6372 - val_loss: 1.1596 - learning_rate: 1.0000e-04
+Epoch 3/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 182ms/step - accuracy: 0.6322 - loss: 1.1847
+Epoch 3: val_accuracy improved from 0.63717 to 0.77078, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 467s 196ms/step - accuracy: 0.6682 - loss: 1.0635 - val_accuracy: 0.7708 - val_loss: 0.7131 - learning_rate: 1.0000e-04
+Epoch 4/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.7494 - loss: 0.7838
+Epoch 4: val_accuracy improved from 0.77078 to 0.84383, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 472s 198ms/step - accuracy: 0.7642 - loss: 0.7400 - val_accuracy: 0.8438 - val_loss: 0.4665 - learning_rate: 1.0000e-04
+Epoch 5/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 183ms/step - accuracy: 0.8080 - loss: 0.6026
+Epoch 5: val_accuracy improved from 0.84383 to 0.86394, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 469s 198ms/step - accuracy: 0.8160 - loss: 0.5688 - val_accuracy: 0.8639 - val_loss: 0.4080 - learning_rate: 1.0000e-04
+Epoch 6/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 183ms/step - accuracy: 0.8427 - loss: 0.4831
+Epoch 6: val_accuracy improved from 0.86394 to 0.88551, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 468s 197ms/step - accuracy: 0.8514 - loss: 0.4614 - val_accuracy: 0.8855 - val_loss: 0.3479 - learning_rate: 1.0000e-04
+Epoch 7/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 182ms/step - accuracy: 0.8697 - loss: 0.3980
+Epoch 7: val_accuracy improved from 0.88551 to 0.89409, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 467s 197ms/step - accuracy: 0.8731 - loss: 0.3862 - val_accuracy: 0.8941 - val_loss: 0.3169 - learning_rate: 1.0000e-04
+Epoch 8/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.8892 - loss: 0.3369
+Epoch 8: val_accuracy improved from 0.89409 to 0.89838, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 470s 198ms/step - accuracy: 0.8907 - loss: 0.3345 - val_accuracy: 0.8984 - val_loss: 0.3099 - learning_rate: 1.0000e-04
+Epoch 9/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 181ms/step - accuracy: 0.8989 - loss: 0.3072
+Epoch 9: val_accuracy improved from 0.89838 to 0.93687, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 465s 196ms/step - accuracy: 0.9006 - loss: 0.2981 - val_accuracy: 0.9369 - val_loss: 0.1910 - learning_rate: 1.0000e-04
+Epoch 10/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9127 - loss: 0.2654
+Epoch 10: val_accuracy improved from 0.93687 to 0.94300, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 470s 198ms/step - accuracy: 0.9133 - loss: 0.2625 - val_accuracy: 0.9430 - val_loss: 0.1841 - learning_rate: 1.0000e-04
+Epoch 11/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9193 - loss: 0.2457
+Epoch 11: val_accuracy did not improve from 0.94300
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 463s 195ms/step - accuracy: 0.9208 - loss: 0.2396 - val_accuracy: 0.9251 - val_loss: 0.2296 - learning_rate: 1.0000e-04
+Epoch 12/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 182ms/step - accuracy: 0.9274 - loss: 0.2215
+Epoch 12: val_accuracy did not improve from 0.94300
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 459s 193ms/step - accuracy: 0.9297 - loss: 0.2165 - val_accuracy: 0.9250 - val_loss: 0.2472 - learning_rate: 1.0000e-04
+Epoch 13/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 185ms/step - accuracy: 0.9347 - loss: 0.2017
+Epoch 13: val_accuracy improved from 0.94300 to 0.94717, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 473s 199ms/step - accuracy: 0.9359 - loss: 0.1997 - val_accuracy: 0.9472 - val_loss: 0.1690 - learning_rate: 1.0000e-04
+Epoch 14/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9358 - loss: 0.1916
+Epoch 14: val_accuracy did not improve from 0.94717
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 463s 195ms/step - accuracy: 0.9365 - loss: 0.1921 - val_accuracy: 0.9440 - val_loss: 0.1691 - learning_rate: 1.0000e-04
+Epoch 15/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9450 - loss: 0.1703
+Epoch 15: val_accuracy did not improve from 0.94717
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 465s 196ms/step - accuracy: 0.9435 - loss: 0.1759 - val_accuracy: 0.9439 - val_loss: 0.1728 - learning_rate: 1.0000e-04
+Epoch 16/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9500 - loss: 0.1515
+Epoch 16: val_accuracy improved from 0.94717 to 0.95440, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 472s 199ms/step - accuracy: 0.9490 - loss: 0.1565 - val_accuracy: 0.9544 - val_loss: 0.1367 - learning_rate: 1.0000e-04
+Epoch 17/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 182ms/step - accuracy: 0.9495 - loss: 0.1528
+Epoch 17: val_accuracy improved from 0.95440 to 0.96274, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 466s 196ms/step - accuracy: 0.9491 - loss: 0.1536 - val_accuracy: 0.9627 - val_loss: 0.1175 - learning_rate: 1.0000e-04
+Epoch 18/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9547 - loss: 0.1365
+Epoch 18: val_accuracy did not improve from 0.96274
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 464s 195ms/step - accuracy: 0.9540 - loss: 0.1399 - val_accuracy: 0.9605 - val_loss: 0.1110 - learning_rate: 1.0000e-04
+Epoch 19/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9549 - loss: 0.1342
+Epoch 19: val_accuracy improved from 0.96274 to 0.96286, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 470s 198ms/step - accuracy: 0.9556 - loss: 0.1331 - val_accuracy: 0.9629 - val_loss: 0.1230 - learning_rate: 1.0000e-04
+Epoch 20/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9581 - loss: 0.1284
+Epoch 20: val_accuracy did not improve from 0.96286
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 464s 195ms/step - accuracy: 0.9573 - loss: 0.1293 - val_accuracy: 0.9592 - val_loss: 0.1276 - learning_rate: 1.0000e-04
+Epoch 21/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 183ms/step - accuracy: 0.9599 - loss: 0.1202
+Epoch 21: val_accuracy did not improve from 0.96286
+
+Epoch 21: ReduceLROnPlateau reducing learning rate to 1.9999999494757503e-05.
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 462s 195ms/step - accuracy: 0.9597 - loss: 0.1204 - val_accuracy: 0.9546 - val_loss: 0.1387 - learning_rate: 1.0000e-04
+Epoch 22/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 183ms/step - accuracy: 0.9808 - loss: 0.0571
+Epoch 22: val_accuracy improved from 0.96286 to 0.98026, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 468s 197ms/step - accuracy: 0.9835 - loss: 0.0492 - val_accuracy: 0.9803 - val_loss: 0.0639 - learning_rate: 2.0000e-05
+Epoch 23/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 186ms/step - accuracy: 0.9858 - loss: 0.0405
+Epoch 23: val_accuracy improved from 0.98026 to 0.98382, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 475s 200ms/step - accuracy: 0.9863 - loss: 0.0395 - val_accuracy: 0.9838 - val_loss: 0.0556 - learning_rate: 2.0000e-05
+Epoch 24/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 189ms/step - accuracy: 0.9863 - loss: 0.0390
+Epoch 24: val_accuracy did not improve from 0.98382
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 475s 200ms/step - accuracy: 0.9869 - loss: 0.0372 - val_accuracy: 0.9830 - val_loss: 0.0522 - learning_rate: 2.0000e-05
+Epoch 25/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 185ms/step - accuracy: 0.9870 - loss: 0.0358
+Epoch 25: val_accuracy improved from 0.98382 to 0.98468, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 473s 199ms/step - accuracy: 0.9877 - loss: 0.0358 - val_accuracy: 0.9847 - val_loss: 0.0532 - learning_rate: 2.0000e-05
+Epoch 26/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 184ms/step - accuracy: 0.9904 - loss: 0.0288
+Epoch 26: val_accuracy did not improve from 0.98468
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 463s 195ms/step - accuracy: 0.9898 - loss: 0.0301 - val_accuracy: 0.9814 - val_loss: 0.0635 - learning_rate: 2.0000e-05
+Epoch 27/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 186ms/step - accuracy: 0.9903 - loss: 0.0290
+Epoch 27: val_accuracy improved from 0.98468 to 0.98737, saving model to /kaggle/working/vgg19_best.keras
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 476s 200ms/step - accuracy: 0.9899 - loss: 0.0314 - val_accuracy: 0.9874 - val_loss: 0.0446 - learning_rate: 2.0000e-05
+Epoch 28/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 188ms/step - accuracy: 0.9902 - loss: 0.0314
+Epoch 28: val_accuracy did not improve from 0.98737
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 473s 199ms/step - accuracy: 0.9908 - loss: 0.0288 - val_accuracy: 0.9821 - val_loss: 0.0611 - learning_rate: 2.0000e-05
+Epoch 29/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 188ms/step - accuracy: 0.9907 - loss: 0.0292
+Epoch 29: val_accuracy did not improve from 0.98737
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 473s 199ms/step - accuracy: 0.9902 - loss: 0.0299 - val_accuracy: 0.9841 - val_loss: 0.0581 - learning_rate: 2.0000e-05
+Epoch 30/30
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 0s 188ms/step - accuracy: 0.9905 - loss: 0.0295
+Epoch 30: val_accuracy did not improve from 0.98737
+
+Epoch 30: ReduceLROnPlateau reducing learning rate to 3.999999898951501e-06.
+2375/2375 ━━━━━━━━━━━━━━━━━━━━ 472s 199ms/step - accuracy: 0.9909 - loss: 0.0274 - val_accuracy: 0.9783 - val_loss: 0.0852 - learning_rate: 2.0000e-05
+
+
+==========================================================================================================================================================
+
+Best validation accuracy: 0.9874 at epoch 27
+Final validation accuracy: 0.9783
+Final training accuracy: 0.9909
+Best model saved as: /kaggle/working/vgg19_best.h5

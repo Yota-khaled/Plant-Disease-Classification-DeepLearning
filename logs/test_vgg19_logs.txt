@@ -1,0 +1,4 @@
+511/511 ━━━━━━━━━━━━━━━━━━━━ 29s 56ms/step - accuracy: 0.9762 - loss: 0.0812
+
+Final Test Accuracy  = 97.623%
+Final Test Loss       = 0.0812
