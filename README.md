@@ -32,6 +32,22 @@ Automated detection and classification of **38 plant diseases** using the **Plan
 | AUC (all classes)   | ≥ 0.999  |
 | Parameters          | ~138M    |
 
+## Results Summary (MobileNetV2 - Transfer Learning)
+| Metric              | Value    |
+|---------------------|----------|
+| Test Accuracy       | 95.96%   |
+| Test Loss           | 0.1340   |
+| AUC (all classes)   | ≥ 0.998  |
+| Parameters          | ~2.5M    |
+
+## Results Summary (Vision Transformer - ViT-B16)
+| Metric              | Value    |
+|---------------------|----------|
+| Test Accuracy       | 96.34%   |
+| Test Loss           | 0.1130   |
+| AUC (all classes)   | ≥ 0.999  |
+| Parameters          | ~85.8M   |
+
 ## Project Structure
 notebooks/          → All training notebooks
 models/             → Saved models
