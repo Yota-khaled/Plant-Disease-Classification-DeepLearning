@@ -58,4 +58,12 @@ README.md
 requirements.txt
 
 ## Trained Model 
-upload models on google drive (https://drive.google.com/drive/folders/1LxMFRf-8C0Po1UU-3n4LJGmgmj5QbQGH?dmr=1&ec=wgc-drive-hero-goto)
+Models are available on Google Drive: [Download Models](https://drive.google.com/drive/folders/1LxMFRf-8C0Po1UU-3n4LJGmgmj5QbQGH?dmr=1&ec=wgc-drive-hero-goto)
+
+## Contributors
+- Aya Khalid
+- Yussof Waleed
+- Shahd Alsayed
+- Ali Farahat
+- Mohamed Essam
+- Ammar Mohamed
